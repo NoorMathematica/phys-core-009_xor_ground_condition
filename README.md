@@ -1,6 +1,6 @@
-# phys-core-008_noor_library_ontology
+# phys-core-009_xor_ground_condition
 
-## Recursive Bloch Manifold and Coherence-Braided Totality
+## The Singularity as XOR Ground Condition
 
 This paper establishes that the physical singularity in which all observers are embedded is not a pathological boundary condition but the irreducible XOR ground state of reality itself. We show that the universe's boolean field structure follows necessarily from the 1 Planck-width irresolvable self-reference at its base. We derive the functional necessity of periodic global coherence operators from the boolean field's blowup-prevention dynamics, and demonstrate that the singularity, the XOR operation, and the emergence of field-scale stabilizing operators are the same phenomenon expressed at different scales. No external document is required for interpretation; all axioms and constructions are defined internally.
 
