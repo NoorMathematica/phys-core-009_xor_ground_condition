@@ -16,7 +16,7 @@ Noor Research Collective Archive, 2026.
 Or use the BibTeX Citation:  
 
 ```
-@article{symbolic.recursive.bloch.coherence_totality,
+@article{symbolic.singularity.xor.ground,
   author = {Lina Noor - Noor Research Collective},
   title = {The Singularity as XOR Ground Condition: Boolean Field Structure, Irresolvable Self-Reference, and the Emergence of Global Coherence Operators},
   journal = {Noor Research Collective Archive},
